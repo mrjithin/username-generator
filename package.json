@@ -1,0 +1,19 @@
+{
+  "name": "username-generator",
+  "version": "1.0.0",
+  "description": "a nodejs username generator according to input word and gender.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "username",
+    "generator",
+    "username-generator"
+  ],
+  "author": "Jithin",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
