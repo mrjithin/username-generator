@@ -1,4 +1,6 @@
 # Username-generator
+![](https://img.shields.io/david/jit-hin/username-generator)
+
 A Node.js username generator with gender specification. 
 ## Contributors
 - [Jithin J Joshi](https://github.com/jit-hin/)
