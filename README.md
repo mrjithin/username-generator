@@ -8,6 +8,8 @@ A Node.js username generator with gender specification.
 - [Jithin J Joshi](https://github.com/jit-hin/)
 ## Packages 
 - Prompt-sync
+## Prerequisites
+- Should have [node](https://nodejs.org/en/download/) installed.
 ## Usage
 1. First run the file in the root directory with the command:
 ```bash
