@@ -11,6 +11,6 @@ $ node app.js
 3. *Press Ctrl+C any time to exit.*
 
 **Note:** *Use full screen command line for best experience and rendering.*
-##License
+## License
 
 
