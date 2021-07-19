@@ -1,5 +1,7 @@
 # Username-generator
 A Node.js username generator with gender specification. 
+## Contributors
+
 ## Packages 
 - Prompt-sync
 ## Usage
@@ -12,5 +14,5 @@ $ node app.js
 
 **Note:** *Use full screen command line for best experience and rendering.*
 ## License
-
+This project is licensed under [Apache-2.0 License](https://github.com/jit-hin/username-generator/blob/master/LICENSE.txt).
 
