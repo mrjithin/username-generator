@@ -14,12 +14,16 @@ A Node.js username generator with gender specification.
 - Should have [node](https://nodejs.org/en/download/) installed.
 
 ## Usage
-1. First run the file in the root directory with the command:
+1. First install all the packages:
+```
+$ npm install
+```
+2. First run the file in the root directory with the command:
 ```bash
 $ node app.js
 ```
-2. Then follow the instructions and answer all the questions.
-3. *Press Ctrl+C any time to exit.*
+3. Then follow the instructions and answer all the questions.
+4. *Press Ctrl+C any time to exit.*
 
 **Note:** *Use full screen command line for best experience and rendering.*
 
