@@ -20,7 +20,7 @@ $ npm install
 ```
 2. First run the file in the root directory with the command:
 ```bash
-$ node app.js
+$ node main.js
 ```
 3. Then follow the instructions and answer all the questions.
 4. *Press Ctrl+C any time to exit.*
