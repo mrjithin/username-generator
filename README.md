@@ -15,7 +15,7 @@ A Node.js username generator with gender specification.
 
 ## Usage
 1. First install all the packages:
-```
+```bash
 $ npm install
 ```
 2. First run the file in the root directory with the command:
