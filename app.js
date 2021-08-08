@@ -1,3 +1,4 @@
+const keywords = require('./keywords');
 function generator() {
     'use strict';
     const prompt = require('prompt-sync')({sigint:true});
@@ -13,12 +14,18 @@ function generator() {
     const genderInput = prompt('Gender: ');
     // Converts to lower-case.
     const gender = genderInput.toLowerCase();
-    if(gender === 'n' || gender === 'neutral' || !gender){
+    const frontOrBack = prompt('Do you want your input be added to the front ot back? f/b ');
+    if(frontOrBack.toLowerCase() === 'b'){
+        if(gender === 'n' || gender === 'neutral' || !gender){
      
-    }
+        }
+    } else {
+
+    };
     const restartInput = prompt('DO YOU WANT TO START AGAIN? y/n: ');
     const restart = restartInput.toLowerCase();
     if (restart === 'y'|| restart === 'yes'){
+        console.log('\n\n\n\n\n\n');
         generator();
     };
 }
