@@ -12,8 +12,16 @@
     "username-generator"
   ],
   "author": "Jithin",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jit-hin/username-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jit-hin/username-generator/issues"
+  },
+  "homepage": "https://github.com/jit-hin/username-generator#readme"
 }
