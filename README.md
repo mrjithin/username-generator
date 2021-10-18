@@ -3,8 +3,11 @@
 ![](https://img.shields.io/github/license/jit-hin/username-generator)
 
 A Node.js username generator with gender specification. 
-## Contributors
-- [Jithin J Joshi](https://github.com/jit-hin/)
+
+## Author
+[Jithin J Joshi](https://github.com/mrjithin/)
+- My [Web Developer Portfolio Website](https://mrjithin.netlify.app/)
+<hr />
 
 ## Packages 
 - Prompt-sync
